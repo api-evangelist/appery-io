@@ -1,0 +1,45 @@
+{
+    "name": "Appery.io",
+    "description": "<p><span>Appery.io is a rapid development, integration and deployment platform for delivering cross-device apps in the enterprise. It combines enterprise-grade integration middleware with a browser-based rapid development environment and mobile backend services to accelerate enterprise mobilization. Appery.io enables developers and business analysts to rapidly create and run apps that help businesses of all sizes increase revenues and improve productivity.<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/appery-io-logo.svg",
+    "tags": [
+        "api service provider",
+        "baas",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/appery-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Appery.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/appery-io-logo.svg",
+            "humanURL": "https:\/\/appery.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/appery-io-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/appery-io-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/apperyio"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/appery.io\/"
+        }
+    ]
+}
